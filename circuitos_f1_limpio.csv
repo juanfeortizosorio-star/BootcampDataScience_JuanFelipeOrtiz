@@ -1,0 +1,30 @@
+id_circuito,nombre_circuito,pais,ciudad,longitud_metros,record_vuelta,primer_YEAR_f1,numero_curvas,piloto_record,equipo_record,YEAR_record
+bahrein,Bahrein International Circuit,Bahrein,Sakhir,5412,1:31:447,2004,15,de_la_rosa,mclaren,2005
+jeddah,Jeddah Corniche Circuit,Saudi Arabia,Jedda,6174,1:30:734,2021,27,hamilton,mercedes,2021
+albert_park,Albert Park Circuit,Australia,Melbourne,5278,1:19:813,1996,14,leclerc,ferrari,2024
+suzuka,Suzuka International Circuit,Japan,Suzuka,5807,1:30:983,1987,18,hamilton,mercedes,2019
+miami,Miami International Autodrome,United States,Miami,5412,1:29:708,2022,19,max_verstappen,red_bull,2023
+imola,Imola Autodromo Internazionale Enzo e Dino Ferrari,Italy,Imola,4909,1:15:484,1980,19,hamilton,mercedes,2020
+monaco,Circuit de Monaco,Monaco,Monte Carlo,3337,1:12:909,1950,19,hamilton,mercedes,2021
+gilles_villeneuve,Circuit Gilles Villeneuve,Canada,Montreal,4361,1:13:078,1978,14,bottas,mercedes,2019
+montmelo,Circuit de Barcelona-Catalunya,Spain,Barcelona,4657,1:16:330,1991,14,max_verstappen,red_bull,2023
+red_bull_ring,Red Bull Ring,Austria,Spielberg,4318,1:05:619,1970,10,sainz,mclaren,2020
+silverstone,Silverstone Circuit,Great Britain,Silverstone,5891,1:27:097,1950,18,max_verstappen,red_bull,2020
+hungaroring,Hungaroring,Hungary,Mogyorod,4381,1:16:627,1986,14,hamilton,mercedes,2020
+zandvoort,Circuit Zandvoort,Netherlands,Zandvoort,4259,1:11:097,1950,14,hamilton,mercedes,2021
+spa,Circuit de Spa-Francorchamps,Belgium,Stavelot,7004,1:46:286,1950,20,bottas,mercedes,2018
+monza,Autodromo Nazionale Monza,Italy,Monza,5793,1:21:046,1950,11,barrichelo,ferrari,2004
+baku,Baku City Circuit,Azerbaijan,Baku,6003,1:43:009,2017,20,leclerc,ferrari,2019
+marina_bay,Marina Bay Street Circuit,Singapore,Singapore,4940,1:35:867,2008,19,hamilton,mercedes,2023
+hermanos_rodriguez,Autódromo Hermanos Rodríguez,Mexico,Mexico City,4304,1:17:774,1962,17,bottas,mercedes,2021
+austin,Circuit of The Americas,United States,Austin,3426,1:36:169,2012,20,leclerc,ferrari,2019
+interlagos,Autodromo José Carlos Pace | Interlagos,Brazil,Sao Paulo,4309,1:10:540,1972,15,bottas,mercedes,2018
+lusail,Lusail International Circuit,Qatar,Lusail,5419,1:24:319,2021,16,max_verstappen,red_bull,2023
+yas_marina,Yas Marina Circuit,United Arab Emirates,Abu Dhabi,5281,1:26:103,2009,16,max_verstappen,red_bull,2021
+vegas,Las Vegas Strip Circuit,United States,Las Vegas,3853,1:35:490,2023,17,piastri,mclaren,2023
+mugello,Autodromo Internazionale del Mugello,Italy,Florence,5245,1:18:833,2020,15,hamilton,mercedes,2020
+portimao,Autodromo Internacional do Algarve,Portugal,Portimao,4653,1:18:750,2020,15,hamilton,mercedes,2020
+istanbul,Istanbul Park,Turkey,Istanbul,5338,1:24:770,2005,14,montoya,mclaren,2005
+paul_ricard,Circuit Paul Ricard,France,Le Castellet,5842,1:32:740,1971,15,vettel,ferrari,2019
+sochi,Sochi Autodrom,Russia,Sochi,5848,1:35:761,2014,18,hamilton,mercedes,2019
+nurburgring,Nurburgring,Germany,Nurburg,5148,1:28:139,1951,15,max_verstappen,red_bull,2020
